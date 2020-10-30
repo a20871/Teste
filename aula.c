@@ -1,12 +1,12 @@
 /*****************************************************************//**
  * \file   aula.c
- * \brief  UtilizaÁ„o de Git
+ * \brief  Utiliza√ß√£o de Git
  * 
- * \author SÈrgio
+ * \author S√©rgio
  * \date   October 2020
  *********************************************************************/
 int main() {
-	int x = 1;			/// UtilizaÁ„o da vari·vel x
+	int x = 1;			/// Utiliza√ß√£o da vari√°vel x
 	printf("%d\n", x);
-
+	printf("Esta parte foi introduzida atrav√©s do GitHub");
 }
